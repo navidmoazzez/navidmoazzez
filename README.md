@@ -1,8 +1,8 @@
 # Hey, I'm Navid 👋
 
-I'm a leading AI business strategist and the host of the **AI Creator Summit**, watched by 100,000+ creators from 110+ countries.
+I'm a leading AI business strategist and the host of the **[AI Creator Summit](https://summits.navid.me/ai-creator)**, watched by 100,000+ creators from 110+ countries. Everything I do lives at **[navid.me](https://navid.me)**.
 
-I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life.
+I help creators and founders master AI and build their own **[AI Operating System (AI OS)](https://aios.guide)** to automate their business and life.
 
 An AI OS turns your coding agent into the brain of your business. Claude Code, Codex, Gemini, whichever you use. It connects to your tools, automates your business and life, and does the actual work for you. No more copy-paste from a chatbot.
 
