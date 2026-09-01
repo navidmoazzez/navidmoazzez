@@ -4,9 +4,9 @@ I'm a leading AI business strategist and the host of the **AI Creator Summit**, 
 
 I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life.
 
-An AI OS turns Claude Code into the brain of your business. It connects to your tools, automates your business and life, and does the actual work for you. No more copy-paste from a chatbot.
+An AI OS turns your coding agent into the brain of your business. Claude Code, Codex, Gemini, whichever you use. It connects to your tools, automates your business and life, and does the actual work for you. No more copy-paste from a chatbot.
 
-I built my entire business with it, and I replaced Kit, ThriveCart, WordPress, ClickFunnels, Circle and pretty much every legacy tool I used. Everything you see was built by me using Claude Code. No tech team. No developers.
+I built my entire business with it, and I replaced Kit, ThriveCart, WordPress, ClickFunnels, Circle and pretty much every legacy tool I used. Everything you see was built by me with AI agents. No tech team. No developers.
 
 You don't need to know how to code. You need to know how to set it up.
 
