@@ -31,7 +31,7 @@ You don't need to know how to code. You need to know how to set it up.
 
 ## 📦 Open source
 
-MCP servers that connect Claude to the tools creators actually use. Substack, Bluesky, Mastodon, WhatsApp and more.
+MCP servers that give Claude Code, Claude Desktop, Cursor, Windsurf and any AI agent real access to the tools creators actually use. Substack, Bluesky, Mastodon, WhatsApp and more.
 
 ---
 
